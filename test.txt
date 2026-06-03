@@ -1,0 +1,10 @@
+ Volume in drive D is Personal
+ Volume Serial Number is 0C73-E534
+
+ Directory of D:\Prabhi\Training\Project\gitProject
+
+03-06-2026  14:16    <DIR>          .
+03-06-2026  14:13    <DIR>          ..
+03-06-2026  14:16                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  528,878,358,528 bytes free
